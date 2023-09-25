@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+/* Estilos para a opção de escolha de cor de fundo */
+.color-picker {
+    margin-top: 20px;
+}
+
+.color-picker label {
+    font-weight: bold;
+}
+
+.color-picker input[type="color"] {
+    margin-top: 5px;
+}
